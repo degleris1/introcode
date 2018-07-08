@@ -17,3 +17,6 @@ Some simple coding lessons
 - Modules
 - Scientific python
 - Plotting
+- Debugging
+- Recursion
+- Style, documentation
